@@ -25,7 +25,4 @@ Exact output match is required (including punctuation).
 ```bash
 ### `welcome-cli-plus/messages.py`
 ```python
-# messages.py
 
-WELCOME_PREFIX = "Welcome to GDG Dev Nest"
-WELCOME_NAME = "explorer"
